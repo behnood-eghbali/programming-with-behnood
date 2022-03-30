@@ -1,0 +1,9 @@
+ul {
+	list-style: inside;
+}
+
+img {
+	border-radius: 10px;
+	display: block;
+	width: 50%;
+}
